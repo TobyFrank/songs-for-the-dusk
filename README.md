@@ -7,6 +7,27 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/dez384/foundryvtt-blades-in-the-dark"> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dez384/foundryvtt-blades-in-the-dark"></a> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dez384/foundryvtt-blades-in-the-dark"></a> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/dez384/foundryvtt-blades-in-the-dark"></a> 
 </p>
 
+TODO:
+en.json:
+- Vice
+- Prison
+- Crews
+- Heat -> pressure
+- Traume -> scar
+- Expert/Gang -> specialist
+- Class abilities
+- Add harmony
+
+
+Class Transforms:
+- Cutter -> Aegis
+- Hound -> Kestrel
+- Leech -> Scrapper
+- Lurk -> Scholar
+- Slide -> Beacon
+- Spider -> Charter
+- Whisper -> Witch
+
 If you like our work - use the system, use it all, and may the shadows cover your way.
 If you have questions, please ask them on the #forged-in-the-dark channel of the [FoundryVTT Discord](https://discord.gg/foundryvtt)
 

@@ -105,6 +105,12 @@
           "bonus": 0,
           "label": "BITD.SkillsKinesis",
           "skills": {
+            "clash": {
+              "label": "BITD.SkillsClash",
+              "value": 0,
+              "max": 3,
+              "min": 0
+            },
             "handle": {
               "label": "BITD.SkillsHandle",
               "value": 0,
@@ -113,12 +119,6 @@
             },
             "shadow": {
               "label": "BITD.SkillsShadow",
-              "value": 0,
-              "max": 3,
-              "min": 0
-            },
-            "skirmish": {
-              "label": "BITD.SkillsSkirmish",
               "value": 0,
               "max": 3,
               "min": 0
@@ -317,9 +317,9 @@
       "shape": [0],
       "sunder": [0],
       "trace": [0],
+      "clash": [0],
       "handle": [0],
       "shadow": [0],
-      "skirmish": [0],
       "wayfare": [0],
       "bluff": [0],
       "command": [0],
