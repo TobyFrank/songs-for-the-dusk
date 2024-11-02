@@ -71,28 +71,28 @@
           "exp": 0,
           "exp_max": 6,
           "bonus": 0,
-          "label": "BITD.SkillsInsight",
+          "label": "BITD.SkillsAnalysis",
           "skills": {
             "decipher": {
-              "label": "BITD.SkillsHunt",
+              "label": "BITD.SkillsDecipher",
               "value": 0,
               "max": 3,
               "min": 0
             },
             "shape": {
-              "label": "BITD.SkillsStudy",
+              "label": "BITD.SkillsShape",
               "value": 0,
               "max": 3,
               "min": 0
             },
             "sunder": {
-              "label": "BITD.SkillsSurvey",
+              "label": "BITD.SkillsSunder",
               "value": 0,
               "max": 3,
               "min": 0
             },
             "trace": {
-              "label": "BITD.SkillsTinker",
+              "label": "BITD.SkillsTrace",
               "value": 0,
               "max": 3,
               "min": 0
@@ -103,16 +103,16 @@
           "exp": 0,
           "exp_max": 6,
           "bonus": 0,
-          "label": "BITD.SkillsProwess",
+          "label": "BITD.SkillsKinesis",
           "skills": {
             "handle": {
-              "label": "BITD.SkillsFinesse",
+              "label": "BITD.SkillsHandle",
               "value": 0,
               "max": 3,
               "min": 0
             },
             "shadow": {
-              "label": "BITD.SkillsProwl",
+              "label": "BITD.SkillsShadow",
               "value": 0,
               "max": 3,
               "min": 0
@@ -124,7 +124,7 @@
               "min": 0
             },
             "wayfare": {
-              "label": "BITD.SkillsWreck",
+              "label": "BITD.SkillsWayfare",
               "value": 0,
               "max": 3,
               "min": 0
@@ -135,10 +135,10 @@
           "exp": 0,
           "exp_max": 6,
           "bonus": 0,
-          "label": "BITD.SkillsResolve",
+          "label": "BITD.SkillsSemiosis",
           "skills": {
             "bluff": {
-              "label": "BITD.SkillsAttune",
+              "label": "BITD.SkillsBluff",
               "value": 0,
               "max": 3,
               "min": 0
@@ -150,13 +150,13 @@
               "min": 0
             },
             "connect": {
-              "label": "BITD.SkillsConsort",
+              "label": "BITD.SkillsConnect",
               "value": 0,
               "max": 3,
               "min": 0
             },
             "tune": {
-              "label": "BITD.SkillsSway",
+              "label": "BITD.SkillsTune",
               "value": 0,
               "max": 3,
               "min": 0
