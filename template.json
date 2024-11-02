@@ -313,18 +313,18 @@
     "templates": ["default", "logic", "activatedEffect"],
     "experience_clues": [],
     "base_skills": {
-      "hunt": [0],
-      "study": [0],
-      "survey": [0],
-      "tinker": [0],
-      "finesse": [0],
-      "prowl": [0],
+      "decipher": [0],
+      "shape": [0],
+      "sunder": [0],
+      "trace": [0],
+      "handle": [0],
+      "shadow": [0],
       "skirmish": [0],
-      "wreck": [0],
-      "attune": [0],
+      "wayfare": [0],
+      "bluff": [0],
       "command": [0],
-      "consort": [0],
-      "sway": [0]
+      "connect": [0],
+      "tune": [0]
     }
   },
   "ability": {
