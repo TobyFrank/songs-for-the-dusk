@@ -20,10 +20,13 @@ en.json:
 
 
 Class Transforms:
+
+Need to do all starting abilities
+
 - Cutter -> Aegis
-- Hound -> Kestrel
+- Hound -> Kestrel 1 Way of the Seeker
 - Leech -> Scrapper
-- Lurk -> Scholar
+- Lurk -> Scholar 1 Charmtrick
 - Slide -> Beacon
 - Spider -> Charter
 - Whisper -> Witch
