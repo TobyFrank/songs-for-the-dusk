@@ -1,3 +1,14 @@
-2024/07/02-20:38:19.069 910 Recovering log #291
-2024/07/02-20:38:19.072 910 Delete type=0 #291
-2024/07/02-20:38:19.072 910 Delete type=3 #290
+2024/11/07-19:43:07.430 6ac8 Log #177: 0 ops saved to Table #305 OK
+2024/11/07-19:43:07.431 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/000177.log: OK
+2024/11/07-19:43:07.443 6ac8 Log #295: 42 ops saved to Table #306 OK
+2024/11/07-19:43:07.444 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/000295.log: OK
+2024/11/07-19:43:07.444 6ac8 Log #304: 0 ops saved to Table #307 OK
+2024/11/07-19:43:07.446 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/000304.log: OK
+2024/11/07-19:43:07.447 6ac8 Table #23: 60 entries OK
+2024/11/07-19:43:07.448 6ac8 Table #199: 60 entries OK
+2024/11/07-19:43:07.449 6ac8 Table #302: 67 entries OK
+2024/11/07-19:43:07.449 6ac8 Table #306: 42 entries OK
+2024/11/07-19:43:07.452 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/MANIFEST-000176: OK
+2024/11/07-19:43:07.454 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/MANIFEST-000294: OK
+2024/11/07-19:43:07.455 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades/MANIFEST-000303: OK
+2024/11/07-19:43:07.460 6ac8 **** Repaired leveldb C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\crew_upgrades; recovered 4 files; 47610 bytes. Some data may have been lost. ****

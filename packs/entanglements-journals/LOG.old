@@ -1,7 +1,9 @@
-2024/03/21-23:23:21.533 3024 Recovering log #170
-2024/03/21-23:23:21.537 3024 Delete type=0 #170
-2024/03/21-23:23:21.538 3024 Delete type=3 #168
-2024/03/21-23:26:23.568 24d0 Level-0 table #175: started
-2024/03/21-23:26:23.569 24d0 Level-0 table #175: 0 bytes OK
-2024/03/21-23:26:23.569 24d0 Delete type=0 #173
-2024/03/21-23:26:23.571 24d0 Manual compaction at level-0 from '!journal!13D84fBFJ1CCknl8' @ 72057594037927935 : 1 .. '!journal!whBkmsxokUuJ4t9J' @ 0 : 0; will stop at (end)
+2024/11/07-19:43:07.657 6ac8 Log #177: 0 ops saved to Table #186 OK
+2024/11/07-19:43:07.659 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\entanglements-journals/000177.log: OK
+2024/11/07-19:43:07.659 6ac8 Log #185: 0 ops saved to Table #187 OK
+2024/11/07-19:43:07.660 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\entanglements-journals/000185.log: OK
+2024/11/07-19:43:07.660 6ac8 Table #23: 12 entries OK
+2024/11/07-19:43:07.661 6ac8 Table #183: 24 entries OK
+2024/11/07-19:43:07.668 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\entanglements-journals/MANIFEST-000176: OK
+2024/11/07-19:43:07.669 6ac8 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\entanglements-journals/MANIFEST-000184: OK
+2024/11/07-19:43:07.674 6ac8 **** Repaired leveldb C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\entanglements-journals; recovered 2 files; 13559 bytes. Some data may have been lost. ****

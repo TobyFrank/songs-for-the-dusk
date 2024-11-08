@@ -19,7 +19,12 @@ en.json:
 - Add harmony
 
 Crew Transforms:
-- 
+- Assassins
+- Bravos --> Rangers
+- Cult --> Augurs
+- Hawkers --> Magpies
+- Shadows --> Silvers
+- Smugglers --> Couriers
 
 Class Transforms:
 - Cutter -> Aegis

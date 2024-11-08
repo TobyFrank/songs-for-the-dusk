@@ -1,7 +1,9 @@
-2024/03/21-23:23:21.363 3024 Recovering log #170
-2024/03/21-23:23:21.368 3024 Delete type=0 #170
-2024/03/21-23:23:21.369 3024 Delete type=3 #168
-2024/03/21-23:26:23.548 24d0 Level-0 table #175: started
-2024/03/21-23:26:23.548 24d0 Level-0 table #175: 0 bytes OK
-2024/03/21-23:26:23.549 24d0 Delete type=0 #173
-2024/03/21-23:26:23.553 24d0 Manual compaction at level-0 from '!items!ANBgWHbSQVgUQecV' @ 72057594037927935 : 1 .. '!items!fKEJOkqoAwinyzrm' @ 0 : 0; will stop at (end)
+2024/11/07-19:43:07.139 80c4 Log #177: 0 ops saved to Table #186 OK
+2024/11/07-19:43:07.141 80c4 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\heritages/000177.log: OK
+2024/11/07-19:43:07.141 80c4 Log #185: 0 ops saved to Table #187 OK
+2024/11/07-19:43:07.142 80c4 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\heritages/000185.log: OK
+2024/11/07-19:43:07.142 80c4 Table #23: 6 entries OK
+2024/11/07-19:43:07.142 80c4 Table #183: 6 entries OK
+2024/11/07-19:43:07.147 80c4 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\heritages/MANIFEST-000176: OK
+2024/11/07-19:43:07.148 80c4 Archiving C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\heritages/MANIFEST-000184: OK
+2024/11/07-19:43:07.159 80c4 **** Repaired leveldb C:\Users\rober\AppData\Local\FoundryVTT\Data\systems\songs-for-the-dusk\packs\heritages; recovered 2 files; 4047 bytes. Some data may have been lost. ****
