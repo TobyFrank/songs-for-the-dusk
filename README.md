@@ -18,15 +18,14 @@ en.json:
 - Class abilities
 - Add harmony
 
+Crew Transforms:
+- 
 
 Class Transforms:
-
-Need to do all starting abilities
-
 - Cutter -> Aegis
-- Hound -> Kestrel 1 Way of the Seeker
+- Hound -> Kestrel
 - Leech -> Scrapper
-- Lurk -> Scholar 1 Charmtrick
+- Lurk -> Scholar
 - Slide -> Beacon
 - Spider -> Charter
 - Whisper -> Witch
