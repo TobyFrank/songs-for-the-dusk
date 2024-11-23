@@ -29,10 +29,10 @@
       "options": ["BITD.TraumaCold", "BITD.TraumaHaunted", "BITD.TraumaObsessed", "BITD.TraumaParanoid", "BITD.TraumaReckless", "BITD.TraumaSoft", "BITD.TraumaUnstable", "BITD.TraumaVicious"],
       "list": []
     },
-    "healing-clock": [0],
+    "healing-clock": 0,
     "healing_clock": {
-      "value": [0],
-      "max": 4,
+      "value": 0,
+      "max": 6,
       "min": 0
     },
     "experience": [0],
@@ -48,7 +48,9 @@
     "harm": {
         "light": {
           "one": "",
-          "two": ""
+          "two": "",
+          "three": "",
+          "four": ""
         },
         "medium": {
           "one": "",
@@ -203,8 +205,7 @@
   "\uD83D\uDD5B clock": {
     "name": "",
     "type": 4,
-    "value": "0",
-    "owner": ""
+    "value": "0"
   },
     "factions": {
 	"name": ""

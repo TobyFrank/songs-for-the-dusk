@@ -190,7 +190,7 @@
       <table>
         <thead>
           <th class="black-white" colspan="4">{{localize "BITD.Harm"}}</th>
-          <th class="black-white"><label>{{localize "BITD.Healing"}}</label></th>
+          <!-- <th class="black-white"><label>{{localize "BITD.Healing"}}</label></th> -->
           <th class="black-white">{{localize "BITD.Armor"}}</th>
         </thead>
         <tbody>
@@ -200,11 +200,13 @@
               <input type="text" id="character-{{_id}}-harm-3-1" name="system.harm.heavy.one" value="{{system.harm.heavy.one}}">
             </td>
             <td>{{localize "BITD.NeedHelp"}}</td>
-            <td rowspan="3">
+            <!-- <td rowspan="3">
               <div id="character-{{_id}}-health-clock" class="character-health-clock clocks-{{system.healing_clock.max}}">
-				{{{blades-clock "system.healing_clock.value" system.healing_clock.max system.healing_clock.value _id}}}
+                {{{blades-clock "system.healing_clock.value" system.healing_clock.max system.healing_clock.value _id}}}
               </div>
-            </td>
+              <div>{{system.healing_clock.value}}</div>
+              <div>{{system.healing_clock.max}}</div>
+            </td> -->
             <td rowspan="3" id="character-{{_id}}-armor-uses" class="character-armor-uses">
               <div>
                 <label for="character-{{_id}}-armor-uses-armor">{{localize "BITD.Armor"}}</label>
@@ -213,6 +215,7 @@
               <div>
                 <label for="character-{{_id}}-armor-uses-heavy">{{localize "BITD.Heavy"}}</label>
                 <input id="character-{{_id}}-armor-uses-heavy" type="checkbox" name="system.armor-uses.heavy" {{checked system.armor-uses.heavy}}>
+                <input id="character-{{_id}}-armor-uses-heavy2" type="checkbox" name="system.armor-uses.heavy2" {{checked system.armor-uses.heavy2}}>
               </div>
               <div>
                 <label for="character-{{_id}}-armor-uses-special">{{localize "BITD.Special"}}</label>
@@ -234,9 +237,11 @@
             <td>1</td>
             <td>
               <input type="text" id="character-{{_id}}-harm-1-1" name="system.harm.light.one" value="{{system.harm.light.one}}">
+              <input type="text" id="character-{{_id}}-harm-1-2" name="system.harm.light.two" value="{{system.harm.light.two}}">
             </td>
             <td>
-              <input type="text" id="character-{{_id}}-harm-1-2" name="system.harm.light.two" value="{{system.harm.light.two}}">
+              <input type="text" id="character-{{_id}}-harm-1-3" name="system.harm.light.three" value="{{system.harm.light.three}}">
+              <input type="text" id="character-{{_id}}-harm-1-4" name="system.harm.light.four" value="{{system.harm.light.four}}">
             </td>
             <td>{{localize "BITD.LessEffect"}}</td>
           </tr>
@@ -269,7 +274,7 @@
         <div class="label-stripe">
           <p><label for="character-{{_id}}-experience-0">{{localize "BITD.Abilities"}}</label></p>
           <p><a class="item-add-popup" data-item-type="ability" data-tooltip="{{localize 'BITD.AddAbility'}}"><i class="fas fa-plus-square"></i></a></p>
-          <div id="character-{{_id}}-experience" class="teeth-experience">
+          <!-- <div id="character-{{_id}}-experience" class="teeth-experience">
             <label for="character-{{_id}}-experience-0"><i class="fab fa-creative-commons-zero nullifier"></i></label>
             {{#multiboxes system.experience}}
             <input type="radio" id="character-{{_id}}-experience-0" name="system.experience" value="0" dtype="Radio">
@@ -278,7 +283,7 @@
             <label for="character-{{_id}}-experience-{{this}}"></label>
             {{/times_from}}
             {{/multiboxes}}
-          </div>
+          </div> -->
         </div>
 
         <div id="character-{{_id}}-abilities-list">
