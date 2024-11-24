@@ -170,12 +170,13 @@
   "crew": {
     "name": "",
     "reputation": [0],
+    "invested": [0],
+    "harmony": [2],
     "lair": "",
     "tier": "",
     "deity": "",
-    "hold": ["strong"],
+    "hold": "",
     "experience": [0],
-    "hold_types": ["weak", "strong"],
     "coins": {
       "max": 4,
       "value": [0]
